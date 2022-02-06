@@ -21,7 +21,7 @@ canvas {
     border-radius: 20px;
     animation-name: example;
     animation-duration: 4s;
-    margin-top: 50px;
+    margin-top:150px;
     animation-iteration-count: infinite;
 }
 
@@ -61,7 +61,7 @@ canvas {
     position: fixed;
     bottom: 0;
     width: 100%;
-    line-height: 5;
+    line-height: 3;
     animation-name: fadeInAnimation;
     animation-duration: 4s;
     animation-iteration-count: infinite;
